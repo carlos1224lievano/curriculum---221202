@@ -1,0 +1,29 @@
+{
+    "firtsName": "Carlos",
+    "name": "Raul Lievano Ovando",
+
+    "Ubicacion": "Tuxtla Gutierrez, Chiapas.",
+    "cel":       "9613217535", 
+    "correo":    "221202@ids.upchiapas.edu.mx",
+
+    "habilidad01": "Soy precavido en todo",
+    "habilidad02": "resuelvo problemas bajo estres",
+    "habilidad03": "Buscar una solucion para un problema",
+    "habilidad04": "soy enfocado en la problematica",
+    "habilidad05": "soy adaptable a cualquier grupo de trabajo",
+    
+    "informacionAdicional": "investigo antes de hacer un trabajo para corroborar si estoy bien",
+    
+    "resumenProfesional": "Soy de la Universidad Politecnica de Chiapas, tengo experiencia en area de levantamiento de datos y un poco de desarrollo participando en dos proyectos",
+
+    "formacion": "tengo la capacidad de absorber conocimientos de manera rapida si me enfoco, desde pequeño tengo la habilidad de comprender a pesar de las dificultades que se preseenten",
+    
+    "lenguaje1": "C++",
+    "lenguaje2": "Java",
+    "lenguaje4": "HTML",
+    "lenguaje5": "C",
+
+    "proyecto1": "360 FOR SALE",
+    "proyecto2": "My Mood"
+    
+  }

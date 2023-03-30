@@ -1,0 +1,86 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: white;
+}
+
+.datosPersonales{
+    width: 20%;
+    background-color: rgba(1, 0, 56, 0.9);
+    text-align: center;
+    border: 1px solid rgb(174, 223, 228);
+}
+
+.imagen{
+    width: 200px;
+    height: 200px;
+    padding: 10px 0 10px 0;
+}
+
+.cuadro{
+    padding-bottom: 10%;
+    
+}
+
+.contacto{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    text-align: start;
+    padding-right: 10%;
+    font-size: 70%;
+    font-weight: bold;
+    color: rgb(174, 223, 228);
+}
+
+.contacto i{
+    padding-left: 15%;
+}
+
+.social-container a {
+    display: inline-block;
+    text-decoration: none;
+    width: 15%;
+    line-height: 45px;
+    color: rgb(85, 0, 255);
+    margin-right: 10px;
+    background-color: #262245;
+}
+
+.social-container a:hover {
+    color: rgb(4, 180, 200);
+}
+
+.informacion{
+    width: 35%;
+    background-color: rgba(89, 112, 145, 0.634);
+    text-align: center;
+    border: 1px solid rgb(174, 223, 228);
+}
+
+.nombre{
+    color: rgb(0, 0, 0);
+    font-size: 150%;
+    text-align: start;
+    padding-left: 15%;
+}
+
+.color{
+    color: rgba(0, 0, 0, 0.785);
+}
+
+#linea{
+    height: 5px;
+    width: 80%;
+    background-color: rgba(28, 60, 70, 0.9);
+}
+
+.subtitulo{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    text-align: start;
+    padding-left: 15%;
+    font-size: 100%;
+    color: rgb(0, 0, 0);
+}
